@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 nav{
 	height: 70px;
 	padding: 10px 10px 10px 20px;
@@ -34,3 +35,45 @@ nav .nav-wrapper a{
 }
 
 
+=======
+.subheading
+{
+	border: 4px solid;
+	padding: 12px;
+	font-size:34px;
+	margin:40px !important;
+}
+.about_index
+{
+	max-width: 1000px;
+	margin-top: 50px;
+}
+*
+{
+	padding: 0px;
+	margin: 0px;
+}
+html
+{
+	background-color: #f4f4f4;
+}
+.row
+{
+	left: 0px;
+	right: 0px;
+}
+.full
+{
+	padding:0px !important;
+}
+.parallax-container {
+      height: 630px;
+    }
+  p
+  {
+  	font-size: 14px;
+  	padding: 25px;
+  	font-weight: 400;
+  	line-height: 18px;
+  }
+>>>>>>> fa659ba5e397e918e13d08df5de4967da63d64e5
