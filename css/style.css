@@ -1,0 +1,36 @@
+nav{
+	height: 70px;
+	padding: 10px 10px 10px 20px;
+}
+
+nav .nav-wrapper a{
+	color: black;
+}
+
+.nav_logo{
+	width: 20%;
+}
+
+.navbar_list{
+
+}
+
+.nav_element{
+	display: inline-block;
+	/*-webkit-transition: border-bottom 0.4s;
+	-moz-transition:border 0.4s;*/
+    width: 90px;
+	height:48px;
+	background-color: transparent;
+	position: relative;
+	transition: border-bottom-color 0.4s linear 0s;
+	border-bottom: :1px solid white;
+	text-align: center;
+}
+
+.nav_element:hover{
+	background-color: white;
+	border-bottom: 1px solid black;
+}
+
+
